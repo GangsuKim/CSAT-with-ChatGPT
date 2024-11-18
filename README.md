@@ -1,6 +1,6 @@
 # Humans, are we smarter than ChatGPT?
 
-In this repository, we report on the level of ChatGPT on CSAT, a college scholastic ability test in South Korea.
+In this repository, we report on the score of ChatGPT on CSAT, a college scholastic ability test in South Korea.
 
 ## 🔢Math
 ### Pipeline
@@ -15,4 +15,4 @@ In this repository, we report on the level of ChatGPT on CSAT, a college scholas
 |:---:|:---:|:---:|:---:|:---:|
 |ChatGPT-o1[📑](./results/o1-preview.md)|**58**/74|**19**/26|**22**/26|N/A|
 
-*Geometry will be update after the limit of the ChatGPT-o1* 
+*Geometry will be update after the limit of the ChatGPT-o1 (Estimate. Nov 21 2024. 11 PM UTC+9)* 
