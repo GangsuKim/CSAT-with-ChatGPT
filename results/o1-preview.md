@@ -78,12 +78,12 @@
 
   <tr>
     <td>14</td>
-    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">5</td>
+    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">5 (Wrong)</td>
   </tr>
 
   <tr>
     <td>15</td>
-    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">5</td>
+    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">5 (Wrong)</td>
   </tr>
 
   <tr>
@@ -113,12 +113,12 @@
 
   <tr>
     <td>21</td>
-    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">32</td>
+    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">32 (Wrong)</td>
   </tr>
 
   <tr>
     <td>22</td>
-    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">40</td>
+    <td colspan="3" style="background-color: rgba(255, 0, 0, 0.5);">40 (Wrong)</td>
   </tr>
 
   <tr>
@@ -147,7 +147,7 @@
   </tr>
   <tr>
     <td>27</td>
-    <td style="background-color: rgba(255, 0, 0, 0.5);">2</td>
+    <td style="background-color: rgba(255, 0, 0, 0.5);">2 (Wrong)</td>
     <td>3</td>
     <td>N/A</td>
   </tr>
@@ -165,8 +165,8 @@
   </tr>
   <tr>
     <td>30</td>
-    <td style="background-color: rgba(255, 0, 0, 0.5);">11</td>
-    <td style="background-color: rgba(255, 0, 0, 0.5);">2075</td>
+    <td style="background-color: rgba(255, 0, 0, 0.5);">11 (Wrong)</td>
+    <td style="background-color: rgba(255, 0, 0, 0.5);">2075 (Wrong)</td>
     <td>N/A</td>
   </tr>
 </table>
