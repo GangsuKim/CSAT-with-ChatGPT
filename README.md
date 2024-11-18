@@ -3,10 +3,14 @@
 In this repository, we report on the score of ChatGPT on CSAT, a college scholastic ability test in South Korea.
 
 ## 🔢Math
-### Pipeline
+### Pipeline (ChatGPT-o1 series)
 1. Capture each question and convert to LaTex using ChatGPT-4o  
-2. Send a LaTeX text as a prompt to ChatGPT-o1
-> Click 📄 icon next to each subject to check LaTeX prompts. (Korean)
+2. Send a LaTeX text as a prompt to ChatGPT-o1 series
+### Pipeline (ChatGPT-4o and older)
+1. Capture each question of CSAT.  
+2. Send a captured image as a prompt to ChatGPT
+
+> Click 📄 icon next to each subject to check LaTeX prompts. (Korean)  
 > Click 📑 icon to check score card of each model and subject.
 
 
