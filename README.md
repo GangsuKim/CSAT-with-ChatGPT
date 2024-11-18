@@ -17,6 +17,9 @@ In this repository, we report on the score of ChatGPT on CSAT, a college scholas
 ### Results
 |Model|Common[📄](./prompts/1.Math_common.txt)|Different and Integral Calculus[📄](./prompts/1.Math_Different_and_integral_Calculus.txt)|Probability and Staristics[📄](./prompts/1.Math_Probability_and_Staristics.txt)|Geometry|
 |:---:|:---:|:---:|:---:|:---:|
-|ChatGPT-o1[📑](./results/o1-preview.md)|**58**/74|**19**/26|**22**/26|N/A|
+|o1 preview[📑](./results/o1-preview.md)|**58**/74|**19**/26|**22**/26|N/A|
+|o1 mini|N/A|N/A|N/A|N/A|
+|4o|N/A|N/A|N/A|N/A|
+|4o mini|**45**/74|**15**/26|**10**/26|N/A|
 
 *Geometry will be update after the limit of the ChatGPT-o1 (Estimate. Nov 21 2024. 11 PM UTC+9)* 
