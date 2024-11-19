@@ -19,7 +19,7 @@ In this repository, we report on the score of ChatGPT on CSAT, a college scholas
 |:---:|:---:|:---:|:---:|:---:|
 |o1 preview[📑](./results/o1-preview.md)|**58**/74|**19**/26|**22**/26|N/A|
 |o1 mini|N/A|N/A|N/A|N/A|
-|4o|**50**/74|**12**/26|N/A|N/A|
+|4o|**50**/74|**12**/26|**15**/26|N/A|
 |4o mini|**45**/74|**15**/26|**10**/26|N/A|
 
 *Geometry will be update after the limit of the ChatGPT-o1 (Estimate. Nov 21 2024. 11 PM UTC+9)* 
